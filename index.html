@@ -1,14 +1,11 @@
 <html>
 <head>
-
+    <title>MainMenu</title>
     <link href="style.css" rel="stylesheet">
     <script>
         function change_font(obj) {
             var root = document.querySelector(':root');
-            //root.style.setProperty('--main-color', obj);
-            popColor();
-            pushColor(obj);
-            root.style.setProperty('--main-color', colorArray.pop());
+            root.style.setProperty('--main-color', obj);
         }
     </script>
 </head>
@@ -19,13 +16,11 @@
     <div class="rules"><a href="src/rules.html"><button>Rules</button></a></div>
     <div class="stats"><a href="src/stats.html"><button>STATS</button></a></div>
     <details> <summary><h4>Choose the background</h4></summary>
-        <div class="font"><form method="post" action="1.php" onsubmit="return false">
-            <button class="color" id="red" name="button" value="gray" onclick='change_font("#000000")'>Night</button>
-            <button class="color" id="orange" name="button" value="white" onclick='change_font("#FFFFFF")'>Day</button>
+        <div class="background"><form method="post" action="1.php" onsubmit="return false">
+            <button class="color" id="night" name="button" value="blue" onclick='change_font("#000000")'>Night</button>
+            <button class="color" id="day" name="button" value="white" onclick='change_font("#FFFFFF")'>Day</button>
         </form></div>   </details>
 
 </div>
-</body>
-
 </body>
 </html>
