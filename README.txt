@@ -1,31 +1,26 @@
-1. Для начала использования проекта Doodle Jump необходимо
-открыть файл index.html
-2. Чтобы запустить игру, необходимо нажать на кнопку Start
-3. Чтобы ознакомиться с правилами игры,
-необходимо нажать на кнопку Rules
-4. Чтобы посмотреть статистику, необходимо нажать на кнопку STATS
-5. Чтобы очистить статистику, необходимо нажать на кнопку Refresh,
-находясь на странице STATS
-6. Чтобы изменить фон, необходимо нажать на кнопку Choose the background
-и выбрать цвет
-7. Чтобы изменить фон в процессе игры,
-необходимо нажать на кнопку Daymode или Nightmode
-8. Чтобы выйти в главное меню с любой страницы, необходимо
-нажать на кнопку Menu
+# miniblog
+**Mini blog using JS front and PHP back.**  
 
 **SCREENSHOTS**  
-Main menu  
-![alt tag](https://sun9-49.userapi.com/MrSFoy8DmPA2gobHhtK7VLSUP1yKD6pqNUrUrw/3s04QJ9_YHE.jpg "")  
-Rules  
-![alt tag](https://sun9-44.userapi.com/RBNlKE5dpsPACsw6kc3_HS46iN2qNl3VlaNDpg/T2WLKCYhKmg.jpg "")  
-Stats  
-![alt tag](https://sun9-17.userapi.com/hRgMdkHpiSxDK5AZSTAlNpByB6B7E5wNPnbYaQ/UpsU5J1AkIs.jpg "")  
-Nightmode menu  
-![alt tag](https://sun9-38.userapi.com/3KCuIUyIx8a-3esvvjgBva80viOIofDlhryaDw/XXO6HrUT8Yg.jpg "")  
-Nightmode play  
-![alt tag](https://sun9-16.userapi.com/83SBw7_S8qrtGSN7dQliSQm_nJS_INsPp6bRYQ/uUmDkVZGZ_I.jpg "")  
-Daymode play  
-![alt tag](https://sun9-15.userapi.com/GtR4rLWiiGPo9qd4T1LXxMBXZBXOKDSbPvOtvg/jIlvI2ZSBLw.jpg "")
-
-
-![alt tag](https://sun9-49.userapi.com/MrSFoy8DmPA2gobHhtK7VLSUP1yKD6pqNUrUrw/3s04QJ9_YHE.jpg "")  
+Login form  
+![alt tag](https://sun7-9.userapi.com/BK5MT_6us5hD0ehPkT5P0-a-DmpIV7-s8JA9lg/LNAJDcefC70.jpg "login form")  
+Register form  
+![alt tag](https://sun7-8.userapi.com/84I3arjMFQqd6XlomuVlLabbXXxRz7txK4RCkQ/qKMyGSTkwjU.jpg "Register form")  
+Wrong login  
+![alt tag](https://sun7-8.userapi.com/7DWaF8SrBLDK8Znx0BF1TKBkN9k7GZMI9QI6CQ/rvkrf76OLGY.jpg "Error")  
+Wrong register  
+![alt tag](https://sun7-9.userapi.com/7-JZVAGToNCi_PoUJPsSa2SnNOOx1Lte2thqoQ/NLjUd_ulGOk.jpg "Wrong register")  
+Sucess register  
+![alt tag](https://sun7-9.userapi.com/6KjCyWV_n8g3a9fVsBZgGiQJ-gEPMw-IgtQ50g/K9w8cOsh2p8.jpg "sucess register")  
+Main page  
+![alt tag](https://sun7-9.userapi.com/stvQO048XSFLsYmpYM1S6tjoLf9RsD1ykAEMlg/b9WHgDVzk1w.jpg "index")  
+New post  
+![alt tag](https://sun7-8.userapi.com/IrK7vBcmQ_XHNvWCfrSJEotPmmPqyROjO4ZAsw/as_UPcR9cew.jpg "New post")  
+Profile settings  
+![alt tag](https://sun7-9.userapi.com/xNVro0yjtIEP6TBoZZ62Kykimwl-1gjlRM2I6g/d5ract-t2mw.jpg "Profile settings")  
+Search user/User list  
+![alt tag](https://sun9-43.userapi.com/FS0hXoEJwz1kuznGj08PVtX_OOkV_Zr9SZ5rsw/-rtLkBfsZzY.jpg "search")  
+Search user  
+![alt tag](https://sun9-10.userapi.com/373W9UzVml-FmO8VlXjOOTdyd-HTTFBGRrIVsQ/n96mDZYB46k.jpg "search")  
+User profile  
+![alt tag](https://sun9-13.userapi.com/3tDnBLMpEysGCycBl9aSvOiL77MQnHQtE1WgBw/T1es7jZ4Q5A.jpg "user")  
